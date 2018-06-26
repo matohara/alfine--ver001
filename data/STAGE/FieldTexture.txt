@@ -1,0 +1,12 @@
+#MAP_NUMBER
+
+2
+
+#FIELD_TEXTURE
+
+data/TEXTURE/FIELD/Field101.jpg
+data/TEXTURE/FIELD/Field102.jpg
+
+data/TEXTURE/FIELD/Field201.jpg
+data/TEXTURE/FIELD/Field202.jpg
+
